@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Suneel (He/Him).
 
-<!--
-**suneel-eng/suneel-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💬 About me**: I am a frontend developer.
 
-Here are some ideas to get you started:
+**🛠️ Skills**: Vue and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **Rust**.
+
+📫 You can reach me at: <br/>
+- <a target="_blank" href="https://twitter.com/SimhadriSuneel">X</a>
+- <a target="_blank" href="https://www.linkedin.com/in/suneelsimhadri/">Linkedin</a>
+- <a target="_blank" href="https://www.instagram.com/goku__7318/">Instagram</a>
+- <a target="_blank" href="https://www.facebook.com/profile.php?id=100079487635254">Facebook</a>
+- <a target="_blank" href="https://www.youtube.com/channel/UCNZSaAecWLLxCzF160Mw7KA">Youtube</a>
